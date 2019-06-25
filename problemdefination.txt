@@ -1,0 +1,7 @@
+problem defination:  Facricon is multiational compony has 24 offices in word they want to feedback management system fo their employees
+                     according to their branch.
+                     
+                 compony want to store information of products.they wat to provide solution for their customers to coomunicate with their management system
+                 and customer can purchase products online  using their service.
+                  Fabrico want to host this service on amazon or google platform 
+                     

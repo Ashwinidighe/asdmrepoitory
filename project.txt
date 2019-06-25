@@ -1,0 +1,16 @@
+functional and non functional requrements:
+       
+
+functional:1)... branch manager check the availability of product
+           2)...employee store the information of all products
+           3)...customer can purchase the product
+           4)....sales person can sell the product according to customer need
+             
+
+nonfunctional requrements:
+        
+
+          1)security cheching
+           2)performance checking
+           3)capacity of system
+           4)accuracy of system
